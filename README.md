@@ -4,7 +4,7 @@ I'm a UK computer science teacher (GCSE and A-level) and a qualified children's 
 
 I am experienced in programming and algorithm implementation, but now I wish to become a software developer and enter industry for better prospects.
 
-💞️ I’m interested in algorithms, encryption, web development, game development, sockets and networking, cyber security and AI/machine learning. I am proficient with Python, C#, Java, SQL databases and Javascript (with HTML and CSS). I can utilise Unity game engine, and React. I can write algorithms for search and sort and pathfinding, and -with a little revision- for machine learning too.
+💞️ I’m interested in algorithms, encryption, web development, game development, sockets and networking, cyber security and AI/machine learning. I am proficient with Python, C#, Java, SQL databases and Javascript (with HTML and CSS). I can utilise Unity game engine, React and a variety of Anaconda packages such as numpy, matplotlib etc. I can write algorithms for search and sort and pathfinding, and for basic machine learning.
 
 
 👀  
